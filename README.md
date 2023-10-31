@@ -64,7 +64,7 @@
     </li>
     <li>
         <h2>Cursos ITIL</h2>
-        <p>Capacitación en ITIL (Information Technology Infrastructure Library) para mejorar las prácticas de gestión de TI.</p>
+        <p>Capacitación en ITIL (Information Technology Infrastructure Library) para mejorar las prácticas de gestión de TI).</p>
     </li>
 </ol>
 
