@@ -1,9 +1,9 @@
 # Bienvenidos a ITCommsolutions
 
 
-<h1>
+<p>
   En ITCommsolutions, nos enorgullece ser líderes en la prestación de servicios integrados de Tecnología de la Información. Nuestra misión es proporcionar soluciones de vanguardia basadas en la convergencia digital de la informática, las telecomunicaciones y la multimedia. Estamos comprometidos a ofrecer servicios de alta calidad que impulsen el éxito de su negocio.
-</h1>
+</p>
 
 ## Nuestros Servicios
 <ol>
