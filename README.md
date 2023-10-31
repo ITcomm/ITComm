@@ -70,7 +70,7 @@
 
 ## Contáctenos
 
-<h2>¡Estamos aquí para servirle! Si tiene alguna pregunta o necesita más información sobre nuestros servicios, no dude en ponerse en contacto con nosotros.</h2>
+<p>¡Estamos aquí para servirle! Si tiene alguna pregunta o necesita más información sobre nuestros servicios, no dude en ponerse en contacto con nosotros.</p>
 <ul>
   <li>
     Teléfono: <p>+1 809 699-8163</p>
